@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\bin\Debug\net6.0\EnumGenerics.exe
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\bin\Debug\net6.0\EnumGenerics.deps.json
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\bin\Debug\net6.0\EnumGenerics.runtimeconfig.json
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\bin\Debug\net6.0\EnumGenerics.dll
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\bin\Debug\net6.0\EnumGenerics.pdb
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.dll
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\refint\EnumGenerics.dll
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.pdb
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\EnumGenerics.genruntimeconfig.cache
+C:\Users\HP\Desktop\c#\EnumGenerics\EnumGenerics\obj\Debug\net6.0\ref\EnumGenerics.dll
